@@ -16,9 +16,9 @@ function Home() {
             I'm a full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, NodeJS, Express JS, GitHub .
+            I have experience of building and desgining software. Currently, I
+            love to work on web application using technologies like React,
+            Tailwind, NodeJS, Express JS, GitHub .
           </p>
           <div>
             <Link to="Portfolio" duration={500} smooth>

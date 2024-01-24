@@ -13,11 +13,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Hello, I'm a MERN Stack Developer with 1 year of practical experience.
-          My journey started with a BCOM Hons degree, but exploring ECommerce
-          unveiled the internet's potential. Captivated by technology, I pivoted
-          into web development. Now, as a committed full-stack developer, I
-          proficiently use the MERN stack to build dynamic web applications.
+          Hello, I'm a MERN Stack Developer. My journey started with a BCOM Hons
+          degree, but exploring ECommerce unveiled the internet's potential.
+          Captivated by technology, I pivoted into web development. Now, as a
+          committed full-stack developer, I proficiently use the MERN stack to
+          build dynamic web applications.
         </p>
         <br />
         <p className="text-xl">
