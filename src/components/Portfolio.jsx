@@ -5,13 +5,14 @@ import Genius from "../assets/portfolio/Genius.png";
 import Nftland from "../assets/portfolio/Nftland.png";
 import Ebike from "../assets/portfolio/Ebike.png";
 import CurrencyCon from "../assets/portfolio/CurrencyCon.png";
+import AiImage from "../assets/portfolio/AiImage.png";
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: CurrencyCon,
-      demo: "https://currencyconvetorin.netlify.app/",
-      code: "https://github.com/Amankumar977/currencyCon",
+      src: AiImage,
+      demo: "https://ai-image-generator-alpha-eight.vercel.app/",
+      code: "https://github.com/Amankumar977/Ai-image-generator",
     },
     {
       id: 2,
@@ -33,9 +34,9 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: Nftland,
-      demo: "https://nftlandcrypto.netlify.app/",
-      code: "https://github.com/Amankumar977/5Websites/tree/main/Nftland",
+      src: CurrencyCon,
+      demo: "https://currencyconvetorin.netlify.app/",
+      code: "https://github.com/Amankumar977/currencyCon",
     },
     {
       id: 6,
