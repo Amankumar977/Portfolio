@@ -6,67 +6,68 @@ import Nftland from "../assets/portfolio/Nftland.png";
 import Ebike from "../assets/portfolio/Ebike.png";
 import CurrencyCon from "../assets/portfolio/CurrencyCon.png";
 import AiImage from "../assets/portfolio/AiImage.png";
+import Ecom from "../assets/portfolio/Green and White Minimalist Nature Travel Vlog Youtube Thumbnail.png";
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      src: Ecom,
+      demo: "https://e-commerce-app-nine-blush.vercel.app/",
+      code: "https://github.com/Amankumar977/ECommerceApp",
+    },
+    {
+      id: 2,
       src: AiImage,
       demo: "https://ai-image-generator-alpha-eight.vercel.app/",
       code: "https://github.com/Amankumar977/Ai-image-generator",
     },
     {
-      id: 2,
+      id: 3,
       src: TODO1,
       demo: "https://todoapplicationam.netlify.app/",
       code: "https://github.com/Amankumar977/5Websites/tree/main/ToDO",
     },
     {
-      id: 3,
+      id: 4,
       src: Bookstore,
       demo: "https://book-management-front.vercel.app/",
       code: "https://github.com/Amankumar977/Full-Stack/tree/main/BookStore",
     },
     {
-      id: 4,
+      id: 5,
       src: Genius,
       demo: "https://geniusclone15.netlify.app/",
       code: "https://github.com/Amankumar977/Geniusclone",
     },
     {
-      id: 5,
+      id: 6,
       src: CurrencyCon,
       demo: "https://currencyconvetorin.netlify.app/",
       code: "https://github.com/Amankumar977/currencyCon",
     },
     {
-      id: 6,
+      id: 7,
       src: Ebike,
       demo: "https://ebike45.netlify.app/",
       code: "https://github.com/Amankumar977/5Websites/tree/main/Bike",
     },
     {
-      id: 7,
+      id: 8,
       src: Genius,
       demo: "https://geniusclone15.netlify.app/",
       code: "https://github.com/Amankumar977/Geniusclone",
     },
     {
-      id: 8,
+      id: 9,
       src: Nftland,
       demo: "https://nftlandcrypto.netlify.app/",
       code: "https://github.com/Amankumar977/5Websites/tree/main/Nftland",
-    },
-    {
-      id: 9,
-      src: Ebike,
-      demo: "https://ebike45.netlify.app/",
-      code: "https://github.com/Amankumar977/5Websites/tree/main/Bike",
     },
   ];
 
   return (
     <div
-      name="Portfolio"
+      name="projects"
       className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-[100%] ">
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
