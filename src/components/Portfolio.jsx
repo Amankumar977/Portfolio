@@ -7,6 +7,7 @@ import Ebike from "../assets/portfolio/Ebike.png";
 import CurrencyCon from "../assets/portfolio/CurrencyCon.png";
 import AiImage from "../assets/portfolio/AiImage.png";
 import Ecom from "../assets/portfolio/Green and White Minimalist Nature Travel Vlog Youtube Thumbnail.png";
+import redbus from "../assets/portfolio/redbus.png";
 const Portfolio = () => {
   const portfolios = [
     {
@@ -52,10 +53,10 @@ const Portfolio = () => {
       code: "https://github.com/Amankumar977/5Websites/tree/main/Bike",
     },
     {
-      id: 8,
-      src: Genius,
-      demo: "https://geniusclone15.netlify.app/",
-      code: "https://github.com/Amankumar977/Geniusclone",
+      id: 9,
+      src: redbus,
+      demo: "https://redbuscom.netlify.app/",
+      code: "https://github.com/Amankumar977/5Websites/tree/main/Redbus",
     },
     {
       id: 9,
